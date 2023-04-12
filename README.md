@@ -14,17 +14,19 @@ In the final you must have 3 projects:
 
 ## Requirements
 - The components must be 
-    -- accessible (a11y practices if needed)
-    -- created with Sass (SCSS)
-    -- The values like colors, spacings and sizes must be tokens 💎
-    -- If the component choosed is a organism, so must be created the molecules and atoms related to this organism
-    -- Have like minimum: Properties and Events
+    - accessible (a11y practices if needed)
+    - created with Sass (SCSS)
+    - The values like colors, spacings and sizes must be tokens 💎
+    - If the component choosed is a organism, so must be created the molecules and atoms related to this organism
+    - Have like minimum: Properties and Events
+
 - About documentation
-    -- Must have a documentation in storybook with all examples available (.mdx file)
-    -- The same in a new project (Angular Project) with the real application of the component to a real project
+    - Must have a documentation in storybook with all examples available (.mdx file)
+    - The same in a new project (Angular Project) with the real application of the component to a real project
+    
 - TDD's
-    -- Must be created with Jest (like stencil recommendation)
-    -- The minimum coverage of tests is 80%
+    - Must be created with Jest (like stencil recommendation)
+    - The minimum coverage of tests is 80%
 
 ## Important  
 - Don't use css inline (style property) in your component
